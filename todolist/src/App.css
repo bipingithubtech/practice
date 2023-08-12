@@ -1,0 +1,28 @@
+.main-div{
+  min-height: 100vh;
+  
+  display: flex;
+  justify-content:center ;
+  align-items: center;
+  background-color:#c0ccc3;
+  
+}
+.third{
+  border-color: #5482a3;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #0a1822 inset, 0 0 0 0 #3498db;
+    transition: all 150ms ease-in-out;
+}
+
+.inputText{
+  background-color: #110f0f;
+  border-radius: 3px;
+  color: #fff;
+  
+}
+
+.table{
+  height: 100vh;
+  
+  background-color: #c2dbec;
+}
